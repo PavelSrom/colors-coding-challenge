@@ -11,13 +11,13 @@
 - It must be possible to run the program asynchronously getting all the colors at the same time
 - It must be possible to run the program synchronously getting one color a time
 
-# Possible improvements
+### Possible improvements
 
 - Better validation and error handling
 - Specifying the sort order of individual colors
 - Refactor to TypeScript
 
-# Getting started
+### Getting started
 
 - Clone the repo and run `npm start`
 - Follow terminal instructions
